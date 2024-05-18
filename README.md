@@ -19,4 +19,4 @@
 
 ![image](https://github.com/termsite/Subview-Editor/assets/155269189/6ce0e011-6944-41cc-854b-854ecab40e12)
 
-What makes it stand out? - Templates or Html, Css and more soon
+What makes it stand out? - Templates for Html, Css and more soon
