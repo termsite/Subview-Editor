@@ -12,3 +12,9 @@
 <br>
 
 **To download Subview navigate to "Releases" on the right hand side and click "Version XYZ"**
+
+# Version 1
+
+<br>
+
+![image](https://github.com/termsite/Subview-Editor/assets/155269189/6ce0e011-6944-41cc-854b-854ecab40e12)
